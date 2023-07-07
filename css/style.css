@@ -223,3 +223,54 @@ margin-bottom: 40px;
     margin-left: 15px;
 }
 /*row4 css ias end*/
+/*row5 css is start*/
+#row5{
+    height: 500px;
+    width: 100%;
+    background: #fff;
+
+}
+.offer_section{
+width: 90%;
+margin:0 auto;
+}
+.offer_top{
+    text-align: center;
+    padding: 40px 0px;
+}
+.offer_top h2{}
+.offer_top p{}
+.offer_bottom{
+
+}
+.all_offer_items{}
+.offer_items{
+    width: 230px;
+    float: left;
+    margin-left: 40px;
+    border: 4px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px;
+    padding: 5px;
+    transition: 1s;
+}
+.offer_items:hover{
+    transform: scale(1.2);
+}
+.offer_items img{
+    width: 100%;
+    height: 150px;
+}
+.offer_text{
+    width: 80%;
+    float: left;
+}
+.offer_text h3{}
+.offer_text h4{}
+.offer_icon{
+    width: 10%;
+    float: right;
+}
+.offer_icon i{}
+
+/*row5 css is end*/
