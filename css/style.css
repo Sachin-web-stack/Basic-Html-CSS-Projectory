@@ -42,7 +42,9 @@
     height: 100%;
     text-align: right;
 }
-
+#fb{
+    border-right: 2px solid black;
+}
 .social-links i {
     color: white;
     line-height: 30px;
@@ -159,3 +161,65 @@ margin-bottom: 40px;
 
 }
 /*row3 is end */
+/*row4 css is start*/
+#row4{
+    height: 80px;
+    width: 100%;
+    background: #0E192B;
+}
+.form_section{
+    width: 90%;
+    margin: 0 auto;
+
+}
+.text_part{
+    width: 15%;
+    float: left;
+    text-transform: uppercase;
+
+}
+.text_part h4{}
+.text_part h1{
+    color: white;
+}
+.form_part{
+    padding-top: 23px;
+}
+.form_part form{
+    width: 80%;
+    float: left;
+}
+.input_item{
+    float: left;
+    padding-top: 10px;
+}
+.input_item label{
+    font-size: 18px;
+    font-weight: 500;
+    color: gray;
+    padding-right: 10px;
+    margin-left: 50px;
+}
+.input_item input[type="text"]{
+    padding: 8px;
+    width: 320px;
+    color: gray;
+}
+.input_item input[type="date"]{
+    padding: 7px;
+    width: 316px;
+    color: gray;
+}
+.input_item i{
+    color: black;
+    position: absolute;
+    margin-left: -26px;
+    line-height: 35px;
+
+}
+.form_part button{
+    padding: 5px;
+    margin-top: px;
+    margin-left: 15px;
+}
+/*row4 css ias end*/
