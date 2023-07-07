@@ -46,8 +46,9 @@
 .social-links i {
     color: white;
     line-height: 30px;
-    border-right: 2px solid #000;
+   border-right:2px solid #000;
     padding-right: 9px;
+    
 }
 /*row1 css end */
 /*row2 css start*/
@@ -98,3 +99,63 @@
     line-height: 30px;
 }
 /*row2 css end */
+/*row3 is start*/
+#row3{
+    background-image: url(https://plus.unsplash.com/premium_photo-1661962726504-fa8f464a1bb8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGxvbmRvbiUyMGJyaWRnZSUyMGF0JTIwbmlnaHR8ZW58MHx8MHx8fDA%3D&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: round;
+    height: 500px;
+    width: 100%;
+    position: relative;
+
+}
+.overlay-row3{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background: rgba(0,0,0, .4);
+}
+.banner_section{
+    text-align: center;
+    color: white;
+    position:absolute;
+    width: 100%;
+    margin: 0 auto;
+}
+.banner_content{
+  
+
+    
+}
+.banner_content h1{
+    text-transform: uppercase;
+    font-size: 50px;
+    line-height: 70px;
+    padding-top: 170px;
+}
+.banner_content p{
+    font-size: 20px;
+    font-weight: 600;
+text-transform: capitalize;
+margin-top: 30px;
+margin-bottom: 40px;
+}
+.banner_botton{
+
+}
+.banner_button button{
+    padding: 10px 20px;
+    background: none;
+    border: 2px solid ;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+.banner_button button:hover{
+    background-color: #455964;
+    transition: 1s;
+
+}
+/*row3 is end */
