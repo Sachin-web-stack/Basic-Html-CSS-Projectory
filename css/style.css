@@ -328,3 +328,62 @@
 }
 
 /*row5 css is end*/
+/*row6 css is start*/
+#row6{
+    height: 400px;
+    width: 100%;
+    background: url(https://www.wallpapertip.com/wmimgs/193-1933726_dubai-marina-mall-evening.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+
+}
+.overlay-6{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-color: rgba(0,0,0,.6);
+}
+.holiday_section{
+    width: 90%;
+    margin: 0 auto;
+}
+.holi_top{
+    text-align: center;
+    padding: 40px 0px;
+    color: white;
+    position:absolute;
+    left: 45%;
+}
+.holi_top h1{
+    text-transform: uppercase;
+}
+.holi_top p{}
+.holi_bottom{
+    padding-bottom: 40px;
+    position:absolute;
+    top: 50%;
+}
+.holi_item_all{}
+.holi_item{
+    width:195px ;
+    float: left;
+    color: white;
+    text-align: center;
+}
+
+.holi_item i{
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    border-radius: 100%;
+    line-height: 100px;
+    font-size: 50px;
+}
+.holi_item h4{}
+
+
+
+
+/*row6 css is end*/
